@@ -12,7 +12,7 @@ react-router-dom, toastify, react-chart.js
 VS Code, Git, Github
 
 ### Available Scripts
-In the project directory, you can run:
+In the project directory /client, you can run:
 # npm i
 To install the dependencies
 

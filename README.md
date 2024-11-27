@@ -1,7 +1,8 @@
 # Welcome to hostel management system
 
 Hostel Management System (HMS) is a web application project built to create a comprehensive, efficient, and user-friendly system to manage the day-to-day operations of a hostel. The project is designed to streamline various hostel management tasks ,ensure smooth operations, enhance communication between students and wardens, and provide a better overall experience for both the hostel management and the residents.
-Tech Stacks Used :
+
+### Tech Stacks Used :
 React JS, Tailwind CSS, ExpressJS, MongoDB
 
 ### Libraries Used :
@@ -12,10 +13,10 @@ VS Code, Git, Github
 
 ### Available Scripts
 In the project directory, you can run:
-npm i
+# npm i
 To install the dependencies
 
-npm start
+# npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
